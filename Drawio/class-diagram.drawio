@@ -114,7 +114,7 @@
           <mxGeometry y="128" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="hnPSgMbAUTuv4k3rmpGy-0" value="《enumeration》&lt;div&gt;装备种类&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=48;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="802" width="140" height="256" as="geometry" />
+          <mxGeometry x="1000" y="802" width="140" height="308" as="geometry" />
         </mxCell>
         <mxCell id="hnPSgMbAUTuv4k3rmpGy-1" value="+武器" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
           <mxGeometry y="48" width="140" height="26" as="geometry" />
@@ -122,23 +122,29 @@
         <mxCell id="hnPSgMbAUTuv4k3rmpGy-2" value="+头盔" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
           <mxGeometry y="74" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hnPSgMbAUTuv4k3rmpGy-3" value="+肩甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
+        <mxCell id="hnPSgMbAUTuv4k3rmpGy-10" value="+铔鍜" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
           <mxGeometry y="100" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hnPSgMbAUTuv4k3rmpGy-4" value="+胸甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
+        <mxCell id="hnPSgMbAUTuv4k3rmpGy-3" value="+肩甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
           <mxGeometry y="126" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hnPSgMbAUTuv4k3rmpGy-5" value="+背甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
+        <mxCell id="hnPSgMbAUTuv4k3rmpGy-4" value="+胸甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
           <mxGeometry y="152" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hnPSgMbAUTuv4k3rmpGy-6" value="+裙甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
+        <mxCell id="hnPSgMbAUTuv4k3rmpGy-5" value="+背甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
           <mxGeometry y="178" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hnPSgMbAUTuv4k3rmpGy-7" value="+庇裈kūn" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
+        <mxCell id="hnPSgMbAUTuv4k3rmpGy-6" value="+裙甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
           <mxGeometry y="204" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hnPSgMbAUTuv4k3rmpGy-8" value="+鹘尾" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
+        <mxCell id="hnPSgMbAUTuv4k3rmpGy-7" value="+庇裈kūn" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
           <mxGeometry y="230" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hnPSgMbAUTuv4k3rmpGy-8" value="+鹘尾" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
+          <mxGeometry y="256" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hnPSgMbAUTuv4k3rmpGy-9" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hnPSgMbAUTuv4k3rmpGy-0">
+          <mxGeometry y="282" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
