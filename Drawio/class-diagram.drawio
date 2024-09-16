@@ -96,22 +96,22 @@
         <mxCell id="noBPArrjywFS1Eak-xUS-9" value="+ 合成(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="noBPArrjywFS1Eak-xUS-6">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="noBPArrjywFS1Eak-xUS-22" value="《enumerate》&lt;div&gt;武器种类&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="560" width="140" height="130" as="geometry">
+        <mxCell id="noBPArrjywFS1Eak-xUS-22" value="《enumerate》&lt;div&gt;武器种类&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="560" width="140" height="154" as="geometry">
             <mxRectangle x="450" y="590" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="noBPArrjywFS1Eak-xUS-23" value="+单手剑" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="noBPArrjywFS1Eak-xUS-22">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
+          <mxGeometry y="50" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="noBPArrjywFS1Eak-xUS-24" value="+枪" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="noBPArrjywFS1Eak-xUS-22">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
+          <mxGeometry y="76" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="noBPArrjywFS1Eak-xUS-25" value="+单手盾" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="noBPArrjywFS1Eak-xUS-22">
-          <mxGeometry y="78" width="140" height="26" as="geometry" />
+          <mxGeometry y="102" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="noBPArrjywFS1Eak-xUS-26" value="+刀" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="noBPArrjywFS1Eak-xUS-22">
-          <mxGeometry y="104" width="140" height="26" as="geometry" />
+          <mxGeometry y="128" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
