@@ -183,7 +183,7 @@
           <mxGeometry y="502" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="nB139uvFuMDqrAkJE1Pn-19" value="Classname" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="590" width="160" height="294" as="geometry" />
+          <mxGeometry x="190" y="590" width="160" height="476" as="geometry" />
         </mxCell>
         <mxCell id="nB139uvFuMDqrAkJE1Pn-20" value="+寿命：integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -206,17 +206,38 @@
         <mxCell id="tao9_VGAYYglASQ50U0P-3" value="+魅力：integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
           <mxGeometry y="182" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="tao9_VGAYYglASQ50U0P-5" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
+        <mxCell id="tao9_VGAYYglASQ50U0P-5" value="+性别" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
           <mxGeometry y="208" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="tao9_VGAYYglASQ50U0P-6" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
+        <mxCell id="tao9_VGAYYglASQ50U0P-6" value="+炼器" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
           <mxGeometry y="234" width="160" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="tao9_VGAYYglASQ50U0P-8" value="+丹道" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
+          <mxGeometry y="260" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tao9_VGAYYglASQ50U0P-9" value="+培植" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
+          <mxGeometry y="286" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tao9_VGAYYglASQ50U0P-10" value="+商道" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
+          <mxGeometry y="312" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tao9_VGAYYglASQ50U0P-11" value="+符箓" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
+          <mxGeometry y="338" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tao9_VGAYYglASQ50U0P-12" value="阵法" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
+          <mxGeometry y="364" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tao9_VGAYYglASQ50U0P-13" value="饲养" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
+          <mxGeometry y="390" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tao9_VGAYYglASQ50U0P-14" value="聚灵" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
+          <mxGeometry y="416" width="160" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="nB139uvFuMDqrAkJE1Pn-21" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
-          <mxGeometry y="260" width="160" height="8" as="geometry" />
+          <mxGeometry y="442" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="nB139uvFuMDqrAkJE1Pn-22" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nB139uvFuMDqrAkJE1Pn-19">
-          <mxGeometry y="268" width="160" height="26" as="geometry" />
+          <mxGeometry y="450" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
