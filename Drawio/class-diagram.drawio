@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.14" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1379" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -243,71 +243,124 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uX8NSEVH1VQkea2PovP3" name="Enumeration">
-    <mxGraphModel dx="3448" dy="2155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="643" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-1" value="《enumeration》&lt;div&gt;武器种类&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-1" value="《enumeration》&lt;div&gt;武器种类&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="40" width="140" height="154" as="geometry">
             <mxRectangle x="450" y="590" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-2" value="+剑" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-1">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-2" value="+剑" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-1" vertex="1">
           <mxGeometry y="50" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-3" value="+枪" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-1">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-3" value="+枪" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-1" vertex="1">
           <mxGeometry y="76" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-4" value="+盾" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-1">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-4" value="+盾" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-1" vertex="1">
           <mxGeometry y="102" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-5" value="+刀" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-1">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-5" value="+刀" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-1" vertex="1">
           <mxGeometry y="128" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-6" value="《enumeration》&lt;div&gt;装备种类&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=48;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-6" value="《enumeration》&lt;div&gt;装备种类&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=48;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="40" width="140" height="412" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-7" value="+武器" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-6">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-7" value="+武器" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-6" vertex="1">
           <mxGeometry y="48" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-8" value="+头盔" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-6">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-8" value="+头盔" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-6" vertex="1">
           <mxGeometry y="74" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-9" value="+顿项" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-6">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-9" value="+顿项" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-6" vertex="1">
           <mxGeometry y="100" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-10" value="+铔鍜" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-6">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-10" value="+铔鍜" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-6" vertex="1">
           <mxGeometry y="126" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-11" value="+肩甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-6">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-11" value="+肩甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-6" vertex="1">
           <mxGeometry y="152" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-12" value="+披膊" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-6">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-12" value="+披膊" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-6" vertex="1">
           <mxGeometry y="178" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-13" value="+臂鞲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-6">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-13" value="+臂鞲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-6" vertex="1">
           <mxGeometry y="204" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-14" value="+胸甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-6">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-14" value="+胸甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-6" vertex="1">
           <mxGeometry y="230" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-15" value="+背甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-6">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-15" value="+背甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-6" vertex="1">
           <mxGeometry y="256" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-16" value="+裙甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-6">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-16" value="+裙甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-6" vertex="1">
           <mxGeometry y="282" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-17" value="+裈kūn甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-6">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-17" value="+裈kūn甲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-6" vertex="1">
           <mxGeometry y="308" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-18" value="+鹘尾" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-6">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-18" value="+鹘尾" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-6" vertex="1">
           <mxGeometry y="334" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-19" value="+吊腿" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-6">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-19" value="+吊腿" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-6" vertex="1">
           <mxGeometry y="360" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-20" value="+拕泥遴&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif;&quot;&gt;tuō ní lín&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BoQyG3Z6Fz-oaEkuqaye-6">
+        <mxCell id="BoQyG3Z6Fz-oaEkuqaye-20" value="+拕泥遴&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif;&quot;&gt;tuō ní lín&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="BoQyG3Z6Fz-oaEkuqaye-6" vertex="1">
           <mxGeometry y="386" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="apOAAy_M-3Mf11J-FwXe-1" value="《enumeration》&lt;div&gt;基本词条&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="270" width="140" height="154" as="geometry">
+            <mxRectangle x="450" y="590" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-2" value="+ 攻击: integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="apOAAy_M-3Mf11J-FwXe-1">
+          <mxGeometry y="50" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-3" value="+ 防御: integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="apOAAy_M-3Mf11J-FwXe-1">
+          <mxGeometry y="76" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-4" value="+ HP: integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="apOAAy_M-3Mf11J-FwXe-1">
+          <mxGeometry y="102" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-5" value="+ MP: integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="apOAAy_M-3Mf11J-FwXe-1">
+          <mxGeometry y="128" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-1" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;《enumeration》&lt;/span&gt;&lt;div style=&quot;font-weight: 400;&quot;&gt;特殊词条&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="210" width="160" height="326" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-6" value="+ 暴击率: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Kbm4cpLpqPR-3zTJ3-S6-1">
+          <mxGeometry y="40" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-7" value="+ 暴击伤害加成: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Kbm4cpLpqPR-3zTJ3-S6-1">
+          <mxGeometry y="66" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-8" value="+ 吸血: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Kbm4cpLpqPR-3zTJ3-S6-1">
+          <mxGeometry y="92" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-9" value="+ 反击: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Kbm4cpLpqPR-3zTJ3-S6-1">
+          <mxGeometry y="118" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-10" value="+ 连击: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Kbm4cpLpqPR-3zTJ3-S6-1">
+          <mxGeometry y="144" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-11" value="+ 闪避: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Kbm4cpLpqPR-3zTJ3-S6-1">
+          <mxGeometry y="170" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-12" value="+ 金抗性: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Kbm4cpLpqPR-3zTJ3-S6-1">
+          <mxGeometry y="196" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-13" value="+ 木抗性: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Kbm4cpLpqPR-3zTJ3-S6-1">
+          <mxGeometry y="222" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-14" value="+ 水抗性: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Kbm4cpLpqPR-3zTJ3-S6-1">
+          <mxGeometry y="248" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-15" value="+ 火抗性: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Kbm4cpLpqPR-3zTJ3-S6-1">
+          <mxGeometry y="274" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kbm4cpLpqPR-3zTJ3-S6-16" value="+ 土抗性: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Kbm4cpLpqPR-3zTJ3-S6-1">
+          <mxGeometry y="300" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
